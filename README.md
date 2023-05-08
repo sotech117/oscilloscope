@@ -1,2 +1,2 @@
 # oscilloscope
-Dope project
+Explanation to come.
